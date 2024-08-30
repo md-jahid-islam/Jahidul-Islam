@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alomgir Miah react developer</h1>
+<h1 align="center">Hi 👋, I'm Jahidul Islam react developer</h1>
 <h3 align="center">A passionate react developer from Bangladesh</h3>
 
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alomgir-miah-web&label=Profile%20views&color=0e75b6&style=flat" alt="alomgir-miah-web" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alomgir-miah-web&label=Profile%20views&color=0e75b6&style=flat" alt="Jahidul Islam-web" /> </p>
 
 - 🌱 I’m currently learning *Creative IT Institute*
 
