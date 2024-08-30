@@ -25,6 +25,4 @@ generator/master/src/images/icons/Social/facebook.svg" alt="alomgir miah" height
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alomgir-miah-web&show_icons=true&locale=en&layout=compact" alt="jahidul-islam-web" /></p>
 
-[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alomgir-miah-web&show_icons=true&locale=en"](https://github.com/md-jahidul-islam/Jahidul-Islam/edit/main/README.md) alt="jahidul-islam-web" /></p>
 
-[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?](https://github.com/md-jahid-islam/Jahidul-Islam/edit/main/README.md)user=jahidul-islam--web&" alt="jahidul-islam-web" /></p>
