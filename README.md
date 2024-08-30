@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Creative IT Institute*
 
-- 📫 How to reach me *alomgirmiahweb@gmail.com*
+- 📫 How to reach me *jahiduluislamwebbd@gmail.com*
 
 - ⚡ Fun fact *I am funny*
 
