@@ -10,10 +10,7 @@
 - 🌱 I’m currently learning **Backend**
 - 💬 Ask me about **React,Vanila Js,HTML REDUX FIREBASE API  AND CSS**
 
-- 📫 How to reach me **https://github.com/soniareactdeveloper**
-
-- 📄 Know about my experiences [file:///C:/Users/USER/Downloads/SoniaCv.pdf](file:///C:/Users/USER/Downloads/SoniaCv.pdf)
-
+- 📫 How to reach me **https://github.com/md-jahid-islam**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sonia-akter-483a42323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonia-akter-483a42323/" height="30" width="40" /></a>
